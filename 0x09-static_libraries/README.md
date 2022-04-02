@@ -1,0 +1,1 @@
+a static libraries repository
